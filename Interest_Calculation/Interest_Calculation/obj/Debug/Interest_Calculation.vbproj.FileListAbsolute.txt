@@ -1,0 +1,12 @@
+C:\Users\Anjan\source\repos\Interest_Calculation\Interest_Calculation\obj\Debug\Interest_Calculation.vbprojAssemblyReference.cache
+C:\Users\Anjan\source\repos\Interest_Calculation\Interest_Calculation\obj\Debug\Interest_Calculation.Form1.resources
+C:\Users\Anjan\source\repos\Interest_Calculation\Interest_Calculation\obj\Debug\Interest_Calculation.Resources.resources
+C:\Users\Anjan\source\repos\Interest_Calculation\Interest_Calculation\obj\Debug\Interest_Calculation.vbproj.GenerateResource.cache
+C:\Users\Anjan\source\repos\Interest_Calculation\Interest_Calculation\obj\Debug\Interest_Calculation.vbproj.CoreCompileInputs.cache
+C:\Users\Anjan\source\repos\Interest_Calculation\Interest_Calculation\bin\Debug\Interest_Calculation.exe.config
+C:\Users\Anjan\source\repos\Interest_Calculation\Interest_Calculation\bin\Debug\Interest_Calculation.exe
+C:\Users\Anjan\source\repos\Interest_Calculation\Interest_Calculation\bin\Debug\Interest_Calculation.pdb
+C:\Users\Anjan\source\repos\Interest_Calculation\Interest_Calculation\bin\Debug\Interest_Calculation.xml
+C:\Users\Anjan\source\repos\Interest_Calculation\Interest_Calculation\obj\Debug\Interest_Calculation.exe
+C:\Users\Anjan\source\repos\Interest_Calculation\Interest_Calculation\obj\Debug\Interest_Calculation.xml
+C:\Users\Anjan\source\repos\Interest_Calculation\Interest_Calculation\obj\Debug\Interest_Calculation.pdb
